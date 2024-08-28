@@ -12,4 +12,4 @@ Please refer to the paper for all details, and please feel free to reach out the
 - Ehsan Taheri, ezt0028@auburn.edu
 
 ## Refernces
-[1] *appropiate arxiv citation here*
+[1] https://arxiv.org/abs/2408.14412#
